@@ -6,6 +6,6 @@
 <img src="https://img.shields.io/badge/TypeScript-3766AB?style=flat-square&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-3766AB?style=flat-square&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-3766AB?style=flat-square&logo=Next&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-3766AB?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-3766AB?style=flat-square&logo=Express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-3766AB?style=flat-square&logo=Node&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-3766AB?style=flat-square&logo=Node.js&logoColor=white"/>
