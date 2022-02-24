@@ -9,3 +9,11 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-2E77BC?style=flat-square&logo=Express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+
+# Blog
+
+[블로그](https://jaehunkim0828.github.io/)
+
+# instagram
+
+<img src="https://img.shields.io/badge/instagram-339933?style=flat-square&logo=instagram.js&logoColor=white"/>
