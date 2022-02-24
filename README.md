@@ -16,4 +16,4 @@
 
 # instagram
 
-<img src="https://img.shields.io/badge/instagram-339933?style=flat-square&logo=instagram.js&logoColor=white"/>
+[인스타그램](https://www.instagram.com/dev.jaehun/)
