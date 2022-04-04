@@ -12,7 +12,7 @@
 
 # Blog
 
-[블로그](https://jaehunkim0828.github.io/)
+[블로그](https://hun-dev.tistory.com/)
 
 # instagram
 
