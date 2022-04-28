@@ -1,3 +1,9 @@
+# Hello, my name is JaeHun Kim👋
+
+I am 23 years old.🙃
+
+I am a student  currently attending Los Angeles College.👨‍💻
+
 # 🖥Stack
 
 ![javascript](https://camo.githubusercontent.com/607f3adb5fb476059b0021201f5e48b5cafa7d82eb10d60e4385ae128aef1ac8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d6666623133623f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465)
@@ -13,6 +19,14 @@
 # Blog
 
 [블로그](https://hun-dev.tistory.com/)
+
+### 최근 포스팅
+
+[[Next.js]다크모드 구현하기 (sass)](https://hun-dev.tistory.com/34)
+
+[[Next]네이버 API - 로그인 구현 TypeScript](https://hun-dev.tistory.com/34)
+
+[[Next]카카오톡 API 로그인 구현하기](https://hun-dev.tistory.com/34)
 
 # instagram
 
