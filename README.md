@@ -1,8 +1,8 @@
 # Hello, my name is JaeHun Kim👋
 
-I am 23 years old.🙃
+#### I am 23 years old.🙃
 
-I am a student  currently attending Los Angeles College.👨‍💻
+#### I am a student  currently attending Los Angeles College.👨‍💻
 
 # 🖥Stack
 
