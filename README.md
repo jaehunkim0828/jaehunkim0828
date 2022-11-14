@@ -1,8 +1,11 @@
 # Hello, my name is JaeHun Kim👋
 
-#### I am 23 years old.🙃
+#### I am 24 years old.🙃
 
-#### I am a student  currently attending Los Angeles College.👨‍💻
+#### I am a student  attending Los Angeles College.👨‍💻
+
+### Currently I am working as a freelancer.
+Link: https://kmong.com/gig/347478
 
 # 🖥Stack
 
