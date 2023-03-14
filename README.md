@@ -1,10 +1,10 @@
-# Hello, my name is JaeHun Kim👋
+# Hello, my name is JaeHun Kim 👋
 
-#### I am 24 years old.🙃
+#### 안녕하세요. 개발을 좋아하는 26 김재훈 입니다.🙃
 
-#### I am a student  attending Los Angeles College.👨‍💻
+#### 현재는 West Los Angeles College 재학중입니다.👨‍💻
 
-### Currently I am working as a freelancer.
+### 프리랜서로서 웹사이트를 개발 / 배포 / 운영 가능합니다. 
 Link: https://kmong.com/gig/347478
 
 # 🖥Stack
@@ -32,5 +32,5 @@ Link: https://kmong.com/gig/347478
 [[Next]카카오톡 API 로그인 구현하기](https://hun-dev.tistory.com/34)
 
 # instagram
-
+#### 개발 인스타그램도 운영중이니 놀러오세요 😉
 [인스타그램](https://www.instagram.com/dev.jaehun/)
