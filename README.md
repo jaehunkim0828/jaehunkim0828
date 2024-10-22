@@ -2,7 +2,7 @@
 
 #### 안녕하세요. 개발을 좋아하는 26 김재훈 입니다.🙃
 
-#### 현재는 West Los Angeles College 재학중입니다.👨‍💻
+#### 현재는 West Los Angeles College 졸업했습니다..👨‍💻
 
 ### 프리랜서로서 웹사이트를 개발 / 배포 / 운영 가능합니다. 
 Link: https://kmong.com/gig/347478
