@@ -1,6 +1,4 @@
-# Hello, my name is JaeHun Kim 👋
-
-#### 안녕하세요. 개발을 좋아하는 26 김재훈 입니다.🙃
+# 안녕하세요. 프론트엔드 개발자 하현준입니다
 
 #### 현재는 West Los Angeles College 졸업했습니다..👨‍💻
 
