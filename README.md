@@ -1,15 +1,23 @@
 # 안녕하세요. 프론트엔드 개발자 김재훈입니다
 
-#### 현재는 West Los Angeles College 졸업했습니다..👨‍💻
+<tr />
+프론트엔드 기반으로 다양한 웹 서비스를 만들며  
+사용자가 더 쉽게 사용할 수 있는 제품을 고민하고 개발하고 있어요.
 
-### 프리랜서로서 웹사이트를 개발 / 배포 / 운영 가능합니다. 
-Link: https://kmong.com/gig/347478
+React와 Next.js로 기능을 구현하고,  
+필요한 데이터는 직접 수집하거나 가공해 사용자에게 직관적인 경험을 제공하는 데 집중합니다.
+
+문제를 정의할 때 하나의 방법에 고정되지 않고  
+여러 해결안을 비교·실험하며 최적의 방향을 찾는 방식을 선호해요.  
+어제보다 나은 개발자가 되기 위해 매일 작은 개선과 배움을 반복하고 있습니다.
+
+새로운 환경에 빠르게 적응하며, 해결이 어려운 문제는 적극적으로 공유해  
+팀원들과 함께 더 나은 해답을 만들어가는 개발자입니다.
+<tr />
 
 # 🖥Stack
 
-![javascript](https://camo.githubusercontent.com/607f3adb5fb476059b0021201f5e48b5cafa7d82eb10d60e4385ae128aef1ac8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d6666623133623f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465)
-![Hits](https://camo.githubusercontent.com/96267d8a69067065ffe11ac12baa0d9206641de7eb74225b62fa93f78631775a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7973716c2d4536423931453f7374796c653d666c61742d737175617265266c6f676f3d4d7953716c266c6f676f436f6c6f723d7768697465)
-![aws](https://camo.githubusercontent.com/8aa7fdcd3402ea395c3fdbd8c00fe0f6b7be091fcf985556a2b2097847616bc8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6177732d3333333636343f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465)
+
 <img src="https://img.shields.io/badge/TypeScript-3766AB?style=flat-square&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -17,18 +25,7 @@ Link: https://kmong.com/gig/347478
 <img src="https://img.shields.io/badge/Express-2E77BC?style=flat-square&logo=Express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 
-# Blog
 
-[블로그](https://hun-dev.tistory.com/)
 
-### 최근 포스팅
 
-[[Next.js]다크모드 구현하기 (sass)](https://hun-dev.tistory.com/34)
 
-[[Next]네이버 API - 로그인 구현 TypeScript](https://hun-dev.tistory.com/34)
-
-[[Next]카카오톡 API 로그인 구현하기](https://hun-dev.tistory.com/34)
-
-# instagram
-#### 개발 인스타그램도 운영중이니 놀러오세요 😉
-[인스타그램](https://www.instagram.com/dev.jaehun/)
