@@ -15,10 +15,6 @@
           <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
           <br/></div>
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=김재훈&custom_title=김재훈's Github Stat&bg_color=180,ffffff,00000000&title_color=ffffff&text_color=ffffff"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=김재훈&layout=compact&bg_color=180,ffffff,00000000&title_color=ffffff&text_color=ffffff"
-          /> </div> 
     </div>
 
 
