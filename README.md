@@ -19,6 +19,7 @@
           <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white">
           <img src="https://img.shields.io/badge/Recoil-0179f3?style=for-the-badge&logo=Recoil&logoColor=white">
           </div>
+        <br/>
     </div>
     <div align= "center">
     <span style="border-bottom: 1px solid #d8dee4; color: #282d33; font-size: 32px; font-weight: 700;"> 🧑‍💻 Contact me </span><br/> <br> 
@@ -28,7 +29,7 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <span style="border-bottom: 1px solid #d8dee4; color: #282d33; font-size: 32px; font-weight: 700;"> 🏅 Stats </span><br/> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaehunkim0828&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+    <span style="border-bottom: 1px solid #d8dee4; color: #282d33; font-size: 32px; font-weight: 700;"> 🏅 Stats </span><br/> <br/><div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaehunkim0828&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
     
