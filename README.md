@@ -4,7 +4,7 @@
     </div>
     <br>
     <div align= "center">
-    <span style="border-bottom: 1px solid #d8dee4; color: #282d33; font-size: 32px; font-weight: 700; margin-bottom: 20px;"> 🛠️ Tech Stacks </span> <br> 
+    <span style="border-bottom: 1px solid #d8dee4; color: #282d33; font-size: 32px; font-weight: 700; padding-bottom: 20px;"> 🛠️ Tech Stacks </span> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
