@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&text=프론트엔드%20개발자,%20김재훈입니다&animation=&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&text=프론트엔드%20개발자,%20김재훈입니다&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
     </div>
