@@ -2,6 +2,7 @@
     <h1>안녕하세요, 개발자 김재훈입니다. 👋</h1>    
     <div align= "center"> 
     </div>
+    <br> <br> 
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
